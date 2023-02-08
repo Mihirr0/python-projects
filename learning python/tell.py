@@ -1,0 +1,6 @@
+f=open("mihir.txt")
+# print(f.read())
+print(f.tell())
+print(f.seek(12))
+print(f.readline())
+print(f.tell())
